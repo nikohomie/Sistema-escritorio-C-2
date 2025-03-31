@@ -1,7 +1,6 @@
 # P1/ Formulario Plano Moderno con Menú Animado (Contraer-Expandir Menú), One Window, Versión Base/ C#, WinForm (Beta)
 <H2>Tutorial:</h2>
-<h3>Blog:</h3>
-https://rjcodeadvance.com/disenar-interfaz-de-usuario-modernista-only-window-con-c-version-base/
+
 
 
 <img class="fit-picture"
